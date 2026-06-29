@@ -1,1 +1,1 @@
-El trabajo en clase pedido esta en la carpeta BuscaBDAlumnos. Seleccionar Program.cs
+El trabajo en clase pedido esta en la carpeta BuscaBDAlumnos. Seleccionar BuscaBDAlumnos.cs
